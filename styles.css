@@ -1,0 +1,29 @@
+h1 {color:rgb(2, 10, 159)}
+h2 {color: blueviolet}
+
+
+body { background-color: rgb(226, 240, 196)}
+body {font-family: Arial, Helvetica, sans-serif;}
+body {font-size: 12px;}
+
+    .Hobby-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 1.1em;
+        min-width: 400px;
+    }
+
+    .Hobby-table thead tr {
+        background-color: greenyellow;
+        color: blue;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .link a:hover {
+        color: red;
+    }   
+
+    .link a:active {
+        color: rgb(66, 0, 0);
+    }    
